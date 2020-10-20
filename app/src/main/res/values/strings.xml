@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">About Me </string>
+    <string name="name"> Android</string>
+    <string name="yellow_star">yellow_star</string>
+    <string name="bio">Parece que o mundo todo gira em torno dos nossos smartphones.
+        E as Apps são o ponto central nessa revolução. Saber criar Apps avançadas é uma habilidade importante nos dias de hoje e com um mercado cada vez maior. O Android é a plataforma mais usada no mundo - no Brasil, em particular, de forma disparada.
+
+Na Formação Android, você vai aprender a construir Apps do zero. Desde dominar a IDE Android Studio e entender os fundamentos do framework do Android, até criar funcionalidades complexas, como integração com serviços externos, uso de mapas e câmeras, além de sincronização de dados off-line.</string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+</resources>
