@@ -1,11 +1,17 @@
 <resources>
-    <string name="app_name">About Me </string>
-    <string name="name"> Android</string>
+    <string name="app_name">Sobre mim</string>
+    <string name="name"> Luana Souza</string>
     <string name="yellow_star">yellow_star</string>
-    <string name="bio">Parece que o mundo todo gira em torno dos nossos smartphones.
-        E as Apps são o ponto central nessa revolução. Saber criar Apps avançadas é uma habilidade importante nos dias de hoje e com um mercado cada vez maior. O Android é a plataforma mais usada no mundo - no Brasil, em particular, de forma disparada.
-
-Na Formação Android, você vai aprender a construir Apps do zero. Desde dominar a IDE Android Studio e entender os fundamentos do framework do Android, até criar funcionalidades complexas, como integração com serviços externos, uso de mapas e câmeras, além de sincronização de dados off-line.</string>
+    <string name="bio">Hi, my name is Luana.
+\n\nI love fish.
+\n\nThe kind that is alive and swims around in an aquarium or river, or a lake, and definitely the ocean.
+\nFun fact is that I have several aquariums and also a river.
+\n\nI like eating fish, too. Raw fish. Grilled fish. Smoked fish. Poached fish - not so much.
+\nAnd sometimes I even go fishing.
+\nAnd even less sometimes, I actually catch something.
+\n\nOnce, when I was camping in Canada, and very hungry, I even caught a large salmon with my hands.
+\n\nI\'ll be happy to teach you how to make your own aquarium.
+\nYou should ask someone else about fishing, though.\n\n</string>
     <string name="what_is_your_nickname">What is your Nickname?</string>
     <string name="done">Done</string>
 </resources>
